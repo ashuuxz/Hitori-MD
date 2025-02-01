@@ -53,23 +53,23 @@ global.sdc = " "
 global.snh = 'https://xhitori.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082125276167'
+global.pdana = '917024324777'
 global.povo = '_'
 global.pgopay = '_'
-global.ppulsa = '082125276167'
-global.ppulsa2 = '082125276167'
+global.ppulsa = '917024324777'
+global.ppulsa2 = '917024324777'
 global.psaweria = 'https://saweria.co/nvkenn'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281323870860'
-global.nomorown = '6282125276167'
+global.nomorbot = '917024324777'
+global.nomorown = '917024324777'
 global.namebot = 'XHITORI'
 global.nameown = 'V4LL'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282125276167', 'V4LL', true]
+  ['917024324777', 'V4LL', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
